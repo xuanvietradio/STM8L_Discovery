@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\1_First_Project.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\3_GPIO_Toggle_LED.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\4_USART_Printf.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
